@@ -1,0 +1,12 @@
+Z:\DotNet\Assignment4\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+Z:\DotNet\Assignment4\WebApplication1\WebApplication1\bin\WebApplication1.dll
+Z:\DotNet\Assignment4\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+Z:\DotNet\Assignment4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+Z:\DotNet\Assignment4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+Z:\DotNet\Assignment4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\.NET Assignments\Assignment4\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\.NET Assignments\Assignment4\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\.NET Assignments\Assignment4\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\.NET Assignments\Assignment4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\.NET Assignments\Assignment4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\.NET Assignments\Assignment4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
